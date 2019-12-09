@@ -3,6 +3,7 @@ Portfolio of Data Analysis Projects, I have worked for learning and academic pur
 ## Contents
 * **Data Cleaning and Analysis**
   * Star Wars Survey: Performed data cleaning on movie reviews to analyze the reliability of the positive and negative reviews and specify the reviews by different identities.
+  * Employee Exit Survey: Perform data cleaning and analyze on Australian government-provided datasets to figure out the reasons why the former employees exit and what are the dissatisfications between younger and older employees.
 
 * **Data Visualization**
   * Visualizing Earning Based On College Majors: Visualized how majors affect the earnings of a graduate.
