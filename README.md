@@ -10,6 +10,7 @@ Portfolio of Data Analysis Projects, I have worked for learning and academic pur
 
 * **Probability and Statistics**
   * [Mobile App for Lottery Addicts](mobile-app-for-lottery-addicts): Contributed to a mobile app to prevent and treat lottery addicts better estimate their chances of winning.
+  * [building a Spam Filter with Naive Bayes](building-a-spam-filter): Built a spam filter on SMS messages using multinomial naive bayes algorithm with accuracy of 98.74% on the test set I used.
   
 * **Significance Tesing**
   * [Winning jeopary](winning-jeopary): Text analysis while figuring out strategies to win the Quiz TV show -- Jeopardy, and the chi-squared test was applied in particular.
