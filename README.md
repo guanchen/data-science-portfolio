@@ -16,6 +16,6 @@ Portfolio of Data Analysis Projects, I have worked for learning and academic pur
   * [Winning jeopary](winning-jeopary): Text analysis while figuring out strategies to win the Quiz TV show -- Jeopardy, and the chi-squared test was applied in particular.
 
 * **Machine Learning**
-  * [Predicting car price using k-nearst neighborhood algorithm](car-price-prediction-knn): Practiced machine learning workflow using k-nearest neighbors to predict car prices. The process involved Data cleaning, Univariate modle, Multivariate model and hyperparameter tuning. 
+  * [Predicting car price using k-nearst neighborhood algorithm](car-price-prediction-knn): Practiced machine learning workflow using k-nearest neighbors to predict car prices. The process involved data cleaning, univariate modle, multivariate model and hyperparameter tuning. 
 
   
