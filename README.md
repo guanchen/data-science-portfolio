@@ -18,4 +18,4 @@ Portfolio of Data Analysis Projects, I have worked for learning and academic pur
 * **Machine Learning**
   * [Predicting car price using k-nearst neighborhood algorithm](car-price-prediction-knn): Practiced machine learning workflow using k-nearest neighbors to predict car prices. The process involved data cleaning, univariate model, multivariate model and hyperparameter tuning. 
   * [Linear regression models: house sale prices](linear-regression-models-house-price-prediction): Practiced building and improving linear regression models for predicting house sale prices. The process includes setting up a pipeline of functions that can let us quickly iterate on, applying k-fold cross-validation.
-  * [Predicting stock market:](stock-market-prediction): Using machine learning techniques to predict the price of SP500.
+  * [Predicting stock market](stock-market-prediction): Using machine learning techniques to predict the price of SP500.
